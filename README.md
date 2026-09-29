@@ -255,4 +255,4 @@ This repository serves as the official landing page for Greenstone. The software
 **Get the most recent version of Greenstone today!**
 
 ---
-**Last updated:** 2026-09-29 04:19:25 UTC
+**Last updated:** 2026-09-29 11:06:35 UTC
